@@ -1,0 +1,92 @@
+body{
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5a540f536957da9ae863a589/1565817425645-96XWXUOXFEXMB169P5QS/ke17ZwdGBToddI8pDm48kFhEMxjurIrNQilXbNPEFiAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcoxKHYl9DXn98ncPxaA3FXWukuFAs_G3S_V8hTMp8uHPTotk1a62HzlXh8Y-OaowL/Golden+Bull+Santa+Monica+Table+full+of+food+dishes+and+drinks.jpg?format=2500w');
+  background-size: contain;
+  position: unset;
+}
+.bod{
+  background-image: url('https://recipes.timesofindia.com/thumb/60447827.cms?width=1200&height=1200');
+  background-size: cover;
+  position: unset;
+  font-family: 'Sacramento', monospace;
+  font-size: x-large;
+
+}
+.top{
+  padding: 20%;
+}
+.middle{
+  background-color: white;
+  background-size: contain;
+  background-image: url('https://spicecravings.com/wp-content/uploads/2018/06/Lamb-Dum-Biryani-4.webp');
+}
+.bottom{
+  padding: 3%;
+  background-color: #f5f1da;
+}
+h1{
+  font-size: 37px;
+  font-family: 'Rowsies', cursive;
+  color: #ff5f40;
+  margin-left: 160px;
+  margin-right: 20px;
+  background-color: cornsilk;
+  margin-right: 7px;
+
+}
+h2{
+  font-family: 'Sacramento', monospace;
+  padding: 3%;
+}
+h3{
+  font-size: 27px;
+  font-family: 'Sacramento', cursive;
+}
+.pro {
+  text-decoration: underline;
+}
+ul{
+  margin-left: 100px;
+}
+
+.tab{
+  margin-left: 360px;
+  background-color: white;
+  border-radius: 15px;
+  padding-right: 20px
+
+}
+.tab2{
+  margin-left: 380px;
+  background-color: white;
+  border-radius: 15px;
+  padding-right: 20px
+  
+}
+.tab3{
+  padding-right: 30px;
+  background-color: white;
+  margin-left: 110px;
+  border-color: black;
+  border-radius: 15px;
+}
+.tab-a{
+  font-family: 'Rowsies',monospace;
+  background-color: lavenderblush;
+  font-size: 20px;
+  margin-left: 180px;
+  padding: 5%;
+}
+.tab-b{
+  font-family: 'Rowsies',monospace;
+  background-color: lavenderblush;
+  font-size: 20px;
+  margin-left: 220px;
+  padding: 5%;
+}
+a{
+  color: black;
+}
+.bred{
+  font-family: 'Rowsies',cursive;
+  font-size: 35px;
+}
